@@ -12,6 +12,7 @@
     "scripts": {
         "build:tailwinds": "tailwind build src/styles.css -o public/style.css"
     },
-    "author": "",
-    "license": "ISC"
+    "author": "sazzadhosssainmahim <44097425+sazzadhossainmahim@users.noreply.github.com>",
+    "license": "ISC",
+    "repository": "https://github.com/sazzadhossainmahim/TailwindCSS.git"
 }
