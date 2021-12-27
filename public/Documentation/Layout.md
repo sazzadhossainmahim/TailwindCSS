@@ -1,3 +1,5 @@
+                                            Learning Technique
+
 aspect ratio
 container
 columns
@@ -41,5 +43,8 @@ os-b: auto,contain,none,
 p:static,fixed,absolute,relative,sticky;
 v:visible,hidden;
 zi:0-50,auto;
+
+
+ar,c,c,ba,bb,bi,bds,bs,d,c,i,f,obf,obp,o,osB,zi,v,p,tlbr,
 
 Ar: aspect ratio: 
