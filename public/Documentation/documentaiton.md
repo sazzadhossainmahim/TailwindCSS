@@ -29,4 +29,19 @@ object position -> object-bottom/center/left/left-bottom/left-top/right/
         right-bottom/right-top/top;
 Overflow -> overflow-auto/hidden/clip/visible/scroll/x-auto/y-auto/x-hidden/y-hidden/x-clip/y-clip/x-visible/y-visible/x-scroll/y-scroll;
 
+Overscroll behavior -> Overscroll-auto/contain/none/y-auto/y-contain/ 
+
+    y-none;
+
+Position -> static/fixed/absolute/relative/sticky;
+
+Top/Right/bottom/left -> inset-0,,,'
+
+visibility -> visible,invisible;
+
+z-index ->
+
+
+-----------------------Flexbox and grid --------------------------------
+
 
